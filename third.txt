@@ -1,1 +1,2 @@
 testing branches on smart git
+checkout to master
