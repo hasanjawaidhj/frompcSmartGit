@@ -1,3 +1,5 @@
 change of plan
 hello world to new file
 change of plan
+
+new change for stash practise using smart git
